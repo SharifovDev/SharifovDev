@@ -1,4 +1,4 @@
-# 👋  I'm  Asilbek
+# 👋  I'm  Ozodbek
 
 💻 Frontend Developer | 🎨 UI Builder | ⚡️ JavaScript Enthusiast  
 
