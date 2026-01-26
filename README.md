@@ -54,10 +54,10 @@ HTML, CSS, Tailwind CSS, and JavaScript.
 
 ## 👤 Author
 
-Qahramonov Asilbek
+Sharifov Ozodbek
 
 <!--
-asilbek-ai/asilbek-ai is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+Ozodbek is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
