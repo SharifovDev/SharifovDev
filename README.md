@@ -52,6 +52,7 @@ HTML, CSS, Tailwind CSS, and JavaScript.
 3. Enjoy the project 🚀  
 
 ---
+<video src="https://github.com/czl9707/gh-space-shooter"></video>
 
 ## 👤 Author
 
@@ -71,4 +72,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡️ Fun fact: ...
 -->
-<video src="https://github.com/czl9707/gh-space-shooter"></video>
+
