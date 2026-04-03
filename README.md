@@ -1,74 +1,50 @@
-# 👋  I'm  Ozodbek
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Asilbek;Frontend+Developer;UI+Builder;JavaScript+Enthusiast" alt="Typing SVG" />
+</h1>
 
-💻 Frontend Developer | 🎨 UI Builder | ⚡️ JavaScript Enthusiast  
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Asilbek%20Qahramonov&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Builder&descAlignY=55&descSize=16" alt="Header" />
+</p> 
 
-✨ I build modern, responsive, and clean web interfaces using  
-HTML, CSS, Tailwind CSS, and JavaScript.
+<br/>
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,git,github,vscode,figma" alt="Tech Stack" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
 ---
+
+<!-- 3D Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 ## 🚀 About Me
 
-- 🎯 Building responsive and modern websites
-- 🎨 Styling UI with Tailwind CSS
-- ⚙️ Adding interactivity using JavaScript
-- 📱 Mobile-first & clean design approach
-- 🧠 Constantly learning frontend best practices
-
----
-
-## 📂 My Projects Include
-
-- 🌐 Responsive landing pages and websites
-- 🎨 UI components built with Tailwind CSS
-- ⚡️ JavaScript mini-projects and DOM manipulation
-- 🧩 Interactive forms and validations
-- 📱 Mobile-friendly layouts
-
----
-
-
-
-## 🚀 Getting Started
-
-1. Clone the repository  
-2. Open index.html in your browser  
-3. Enjoy the project 🚀  
-
----
-
-## 👤 Author
-
-Sharifov Ozodbek
-
-<!--
- is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
--->
-
+```python
+class Ozodbek:
+    def init(self):
+        self.name = "Ozodbek Sharifov"
+        self.role = "Frontend Developer"
+        self.location = "Uzbekistan"
+        self.skills = ["HTML", "CSS", "Tailwind", "Bootstrap", "JavaScript", "React"]
+        self.interests = ["Modern UI", "Responsive Design", "Animations"]
+        self.goal = "Building amazing web experiences"
+    
+    def say_hi(self):
+        print("Building responsive and modern websites!")
