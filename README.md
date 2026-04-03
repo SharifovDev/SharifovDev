@@ -3,7 +3,7 @@
 </h1>
 
  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Asilbek%20Qahramonov&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Builder&descAlignY=55&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Ozodbek%20Sharifov&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20UI%20Builder&descAlignY=55&descSize=16" alt="Header" />
 </p> 
 
 <br/>
